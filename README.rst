@@ -1,4 +1,4 @@
-DES in C
+Sudoku Solver
 ########
 Overview
 ========
